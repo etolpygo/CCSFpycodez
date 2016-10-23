@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
 """
+10-08 in-class assignment
+
 1. implement a test case with 5+ assertEqual() calls verifying that a method in re or os.path works properly
 
 2. write a program whose user specifies the path to a pickle file containing a positive integer, implement a test case which causes & catches 3+ kinds of exceptions.

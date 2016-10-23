@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 
 """ 
+10-22 in-class assignment
+
+program called like:
 python3 prog.py BBCC 45.2 34
 
 ex 1:

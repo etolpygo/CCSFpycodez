@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 
 """
+08-27 in-class assignment 3
+
 write a generator of prime numbers
+
 """
 
 import math

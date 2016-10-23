@@ -1,7 +1,11 @@
-# pick a date of birth & a date of death at random; indicate how many days are in that lifetime
-
 #!/usr/bin/python3
 
+"""
+08-27 in-class assignment 3
+
+pick a date of birth & a date of death at random; indicate how many days are in that lifetime
+
+"""
 
 import random
 import time

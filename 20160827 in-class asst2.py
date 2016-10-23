@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
 """
+08-27 in-class assignment 2
+
 from the /etc/passwd file, generate usernames
 """
 
